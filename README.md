@@ -1,6 +1,7 @@
+![IT Engineer](https://media.licdn.com/dms/image/D5603AQHuNnaj5IIeHw/profile-displayphoto-shrink_400_400/0/1703565666102?e=1718236800&v=beta&t=_l2GBp5yPdLfLgHLiBz2EnN5Urve6UavR-XG4qK3xiE)
 ### Hi there 👋, my name is Sahin Alam
 #### IT Engineer
-![IT Engineer](https://media.licdn.com/dms/image/D5603AQHuNnaj5IIeHw/profile-displayphoto-shrink_400_400/0/1703565666102?e=1718236800&v=beta&t=_l2GBp5yPdLfLgHLiBz2EnN5Urve6UavR-XG4qK3xiE)
+
 
 I am an IT engineer and professional tech YouTuber. I am looking to work in a challenging and competitive environment where a strong
 sense of responsibility and commitment to learning and growing are valued. I want to establish myself as a successful professional with full dedication to the organization.
