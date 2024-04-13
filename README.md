@@ -22,10 +22,7 @@ Skills: Networking: Routeing_Switching_Wireless API_Firewalls_LAN, MAN,WAN_IoT D
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahin482&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sahin482)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sahin482)  
 
